@@ -1,0 +1,13 @@
+# Dataset (add it locally, do not upload)
+*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
